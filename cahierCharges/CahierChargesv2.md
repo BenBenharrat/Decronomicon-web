@@ -46,7 +46,7 @@ Cette section est suceptible de changer selon les besoins.
 
 ### 2.2 Structure du site
 
-![](/home/benharratbenjamin/Pictures/arborescenceDecro.png)
+![](https://i.imgur.com/sWSNjli.png)
 
 ## 3. Front-end / Graphismes et charte graphique
 
