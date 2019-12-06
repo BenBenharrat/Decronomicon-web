@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/BenBenharrat/Decronomicon-web/issues"
   },
-  "homepage": "https://github.com/BenBenharrat/Decronomicon-web#readme"
+  "homepage": "https://github.com/BenBenharrat/Decronomicon-web#readme",
+  "devDependencies": {
+    "pg": "^7.14.0",
+    "pg-hstore": "^2.3.3",
+    "postgresql": "0.0.1",
+    "sequelize": "^5.21.2"
+  }
 }
