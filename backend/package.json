@@ -1,4 +1,5 @@
 {
+
   "name": "decronomicon-web",
   "version": "1.0.0",
   "description": "Site web pour l'association Décronomicon.",
@@ -24,5 +25,6 @@
     "pg-hstore": "^2.3.3",
     "postgresql": "0.0.1",
     "sequelize": "^5.21.2"
+
   }
 }
