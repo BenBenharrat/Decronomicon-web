@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BenBenharrat/Decronomicon-web#readme",
   "devDependencies": {
+    "expres": "0.0.5",
     "pg": "^7.14.0",
     "pg-hstore": "^2.3.3",
     "postgresql": "0.0.1",
